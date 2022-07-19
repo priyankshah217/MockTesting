@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+### Go template
+>>>>>>> e717543 (first commit)
 # Binaries for programs and plugins
 *.exe
 *.exe~
@@ -13,3 +17,7 @@
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
+<<<<<<< HEAD
+=======
+
+>>>>>>> e717543 (first commit)
